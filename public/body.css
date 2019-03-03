@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Felipa');
+body {
+    color: black;
+    background: url('BG.jpeg') center no-repeat;
+    background-size: cover;
+    font-size: 150%;
+    font-family: 'Felipa', cursive;
+    justify-content: center;
+    opacity: 30%;
+
+}
+body p {
+    margin: 10px;
+}
+*{
+    margin:0px;
+    padding:0px;
+    font-family:sans-serif;
+  }
+  #sidebar {
+    color:white;
+    margin-top: 65px;
+    position:absolute;
+    height:52.5% ;
+    width:180px;
+    background: #282c34;
+    left:-200px;
+    margin-left:15px;
+    text-decoration: none;
+  }
+  #sidebar.active{
+    left:0px;
+    transition: 0.8s;
+  }
+  #sidebar ul li {
+    color: black;
+    padding:15px 5px;
+    border-bottom: solid 1px;
+    height: 80px ;
+  }
+  #sidebar ul li:hover {
+      opacity:0.8;
+      background-color: gray;
+      transition: 1s;
+      overflow: hidden;
+  }
+
+  #sidebar .toggle-btn {
+    position:absolute;
+    left:230px;
+    top:20px;
+    
+  }
+  #sidebar .toggle-btn span{
+    display: block;
+    width: 30px;
+    height: 5px;
+    background:black;
+    margin:5px 0;
+  }
+  #sidebar ul li a {
+    color: white;
+  }

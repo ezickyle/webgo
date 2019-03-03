@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|EB+Garamond|Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre');
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+.App {
+  text-align: center;
+  background: white;
+  margin-bottom: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: black;
+  font-size: 18px;
+  font-family: 'Abhaya Libre', serif;
+  border: solid 5px black;
+  border-radius: 5px;
+  
+}
+
+.App-header {
+  height: 80px;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  letter-spacing: 3px;
+  color: white;
+  font-family: 'EB Garamond', serif;
+  width: 1490px;
+  margin-top: -10px;
+
+}
+.App-link {
+  color:black; 
+}
+ul {
+  list-style-type: none;
+  padding: 0; 
+}
+.menu:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.menu ul {
+  float: right;
+  background-color: transparent;
+  margin: 0;
+  padding: 15px;
+  font-family: 'Amatic SC', cursive;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+.menu {
+  background-color: white;
+  margin-right: -1px;
+}
+.menu li {
+  font-family: 'Staatliches', cursive;
+  font-size: 1.2em;
+  text-justify: auto;
+  margin-right: 10px;
+  transition: 0.5s;
+}
+.menu li:hover {
+  background-color: whitesmoke;
+  opacity: 100%;
+  padding: 1px; 
+  width: 100px;
+  border-radius: 2%;
+  border: 50px;
+  display:block;
+}
+.App-mode {
+  float: left;
+  height:80px;
+  margin-left: 10px;
+  background-color: black;
+}
+ 
+.menu a {
+  text-decoration: none;
+  color: black;
+  display: block;
+  font-size: 20px;
+}
+.Contact {
+  opacity: 30%;
+  text-decoration: underline;
+  font-size: 20px;
+  background-color: #282c34;
+  text-align: center;
+}
+.Contact p {
+  text-align: center;
+  margin: 10px;
+}
+.LOG {
+  float: left;
+  height: 60px;
+  margin-left: 40px;
+}
+.Buttons {
+  margin: 3px;
+  float:none;
+}
+
