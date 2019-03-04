@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Felipa');
 body {
     color: black;
-    background: url('BG.jpeg') center no-repeat;
+    background: url('BG.jpeg') center repeat;
     background-size: cover;
-    position:absolute;
     font-size: 150%;
     font-family: 'Felipa', cursive;
     justify-content: center;
