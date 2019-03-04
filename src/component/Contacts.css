@@ -1,24 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 .san {
     background-color: white;
-    margin: 100px;
     letter-spacing: 2px;
     background: url('businesscard.jpeg') center no-repeat;
     background-size: cover;
-    border: solid 5px;
+    border: solid 1px;
+    margin-top:-80px;
 }
 .contact {
     font-family: 'EB Garamond', serif;
     font-size: 50px;
     color:white;
     background-color:#282c34;
-    margin-top: -185px;
     letter-spacing: 10px;
-    margin-bottom: 100px;
-    width: 1491px;
-    margin-left: -105px;
-    padding: 10px;
-
+    margin-bottom: 200px;
+    margin-left:0%;
+    margin-right:0%;
 }
 .Loop {
     display: flex;
@@ -26,9 +23,8 @@
     justify-content: left;
     background-color: transparent;
     border-radius: 0.5%;
-    padding: 100px;
     letter-spacing: 5px;
-    margin-top: 30px;
+    min-height: 800px;
 }
 .one {
     margin-bottom: 80px;

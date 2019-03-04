@@ -5,6 +5,8 @@
     background-color: #282c34;
     margin-top:-80px;
     font-family:'Times New Roman';
+    margin-left:0%;
+    margin-right:0%;
 }
 .Hand {
     background: center url('Writing-freelancer.jpg') no-repeat;
@@ -17,7 +19,8 @@
     width: 900px;
 }
 .NOOB {
-    color:black;
+    color:white;
+    opacity: 0.7;
     letter-spacing: 20px;
     background-color: transparent;
     text-decoration: bold;

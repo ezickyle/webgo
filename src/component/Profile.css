@@ -12,12 +12,14 @@
     margin-left: 40px;
     margin-right: 100px;
     border: solid 1px;
+    background-color: gray;
 }
 .Hen {
     border: solid 1px;
     margin-left: 314px;
     margin-right: 100px;
     margin-bottom: 100px;
+    background-color: gray
 }
 .Not{
     height: 200px;

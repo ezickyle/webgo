@@ -1,17 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 h1 {
     font-size: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .halo {
     color: black;
-    margin-left: 0px;
-    margin-right: 200px;
-    margin-bottom: 50px;
-    text-align: left;
+    text-align: center;
     display:flex;
     flex-direction: row-reverse;
     font-size: 16px;
-    margin-top: 140px;
     justify-content: left;
 }
 .NID {
@@ -22,24 +20,26 @@ h1 {
     align-items: center;
 }
 .App-logo2 {
-    border-radius: 1%;
-    margin-top: 70px;
-    margin-right: 10px;
-    margin-left: 200px;
-    height: 320px;
-    width: 250px;
-    border: 50px;
+    border-radius: 1%; 
     opacity: o.1;
+    margin-right:5%;
+    margin-left:10%;
+    margin-top:10%;
+    height:300px;
+    width: 300px;
+
 }
 .ZEE {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 1px;
     font-family: 'EB Garamond', serif;
     text-align: justify;
-    margin-top: -70px;
-    margin-bottom: 200px;
+    min-height: 400px;
+    min-width: 300px;
+    margin-right:5%;
+    margin-left:5%;
 }
 .ALL {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
