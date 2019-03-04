@@ -5,6 +5,7 @@
     background-color: #282c34;
     margin-top:-80px;
     font-family:'Times New Roman';
+    min-width: 500px;
 }
 .Hand {
     background: center url('Writing-freelancer.jpg') no-repeat;
@@ -25,8 +26,4 @@
     position:absolute;
     margin:100px;
     bottom:-250px;
- 
-<<<<<<< HEAD
 }
-=======
->>>>>>> ca9aff9a55f468fcbf51033cbc5e55694abb1a78
