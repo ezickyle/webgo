@@ -26,7 +26,7 @@ class App extends Component {
       </ul>
       </div>
       </div>
-        <header className="App-header">  
+        <header className="App-header">
          </header>     
          <div className="App-intro">
           <Switch>

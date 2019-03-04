@@ -3,16 +3,18 @@
 @import url('https://fonts.googleapis.com/css?family=Abhaya+Libre');
 @import url('https://fonts.googleapis.com/css?family=Staatliches');
 .App {
+  min-height: 900px;
   text-align: center;
   background: white;
   margin-bottom: 50px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 1%;
+  margin-right: 1%;
   color: black;
   font-size: 18px;
   font-family: 'Abhaya Libre', serif;
   border: solid 5px black;
   border-radius: 5px;
+  min-height: 900px;
   
 }
 
@@ -27,8 +29,6 @@
   letter-spacing: 3px;
   color: white;
   font-family: 'EB Garamond', serif;
-  width: 1490px;
-  margin-top: -10px;
 
 }
 .App-link {
@@ -72,12 +72,6 @@ ul {
   border-radius: 2%;
   border: 50px;
   display:block;
-}
-.App-mode {
-  float: left;
-  height:80px;
-  margin-left: 10px;
-  background-color: black;
 }
  
 .menu a {
