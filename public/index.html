@@ -11,6 +11,14 @@
       manifest.json provides metadata used when your web app is added to the
       homescreen on Android. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
+    <!-- Stylesheets -->
+	  <link rel="stylesheet" type="text/css" href="./font-awesome.min.css">
+  	<link rel="stylesheet" type="text/css" href="./style.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
+	  <!-- Scripts -->
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	  <script src="js/menu_toggle.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     <link rel="stylesheet" href="%PUBLIC_URL%/body.css"/>
     <script src="./signs.js"></script>
@@ -28,21 +36,47 @@
     <iframe width="0" height="0" src="./Corpmsc.mp3" frameborder="0" allowfullscreen></iframe>
   </head>
   <body>
-    <script>
-        function toggleSidebar(){
-            document.getElementById ("sidebar").classList.toggle('active');
-          }</script>
-      <div id="sidebar">
-          <div class="toggle-btn" onclick="toggleSidebar()">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-        <ul>
-          <li><a href='C:\reactsite\react\web-app\src\component\Profile.js'>NAVIGATION</a></li>
+      <i class="fa fa-bars toggle_menu"></i>
+      <div class="sidebar_menu">
+          <i class="fa fa-times"></i>
+        <center>
+          <a href="http://www.marchinton.com"><h1 class="boxed_item">EZEKYLE <span class="logo_bold">VILA</span></h1>
+          </a><h2 class="logo_title">Web Developer</h2>
+        </center>
+    
+        <ul class="navigation_section">
+          <li class="navigation_item" id="profile">
+            PROFILE
+          </li>
+          <li class="navigation_item" id="education">
+            EDUCATION
+          </li>
+          <li class="navigation_item" id="work_experience">
+            WORK EXPERIENCE
+          </li>
+          <li class="navigation_item" id="skills">
+            SKILLS
+          </li>
+          <li class="navigation_item" id="interests">
+            INTERESTS
+          </li>
+          <li class="navigation_item" id="portfolio">
+            PORTFOLIO
+          </li>
+          <li class="navigation_item" id="contact">
+            CONTACT
+          </li>
         </ul>
-        
-       </div>
+    
+        <center>
+          <a href="#"><h1 class="boxed_item boxed_item_smaller signup">
+          <i class="fa fa-user"></i>
+            SIGN UP
+          </h1></a>
+        </center>
+      </div><!-- End of sidebar -->
+    
+      <script src="./close_menu.js"></script>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
