@@ -3,6 +3,7 @@ body {
     color: black;
     background: url('BG.jpeg') center no-repeat;
     background-size: cover;
+    position:absolute;
     font-size: 150%;
     font-family: 'Felipa', cursive;
     justify-content: center;
