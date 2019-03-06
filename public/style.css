@@ -115,7 +115,6 @@
 .navigation_item{
 	font-weight: 200;
 	font-family: 'Open Sans';
-	color: white;
 	padding: 12px 0px;
 	box-sizing: border-box; 
 	font-size: 14px;
@@ -124,13 +123,16 @@
 	transition: all 0.3s ease-in-out;
 	cursor: pointer;
 }
-
-.navigation_item:hover{
-	color: white;
+.navigation_item a {
+	color:white;
+}
+.navigation_item a:hover {
+	color:rgb(8, 10, 12);
 	transition: all 0.3s ease-in-out;
 }
-
-
+.navigation_item:hover {
+	background-color:#D8D8D8;
+}
 .boxed_item_smaller{
 	font-size: 12px;
 	color: #D8D8D8;

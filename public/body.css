@@ -6,7 +6,6 @@ body {
     font-family: 'Felipa', cursive;
     justify-content: center;
     opacity: 30%;
-
 }
 body p {
     margin: 10px;
@@ -61,8 +60,9 @@ body p {
     color: white;
   }
   .search-box {
+    margin-top: -8px;
     position:absolute;
-    left: 50%;
+    left: 20%;
     transform:translate(-50%, 50%);
     height:40px;
     border-radius:40px;
@@ -80,10 +80,11 @@ body p {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: black;
+    background: whitesmoke;
     display:flex;
     justify-content: center;
     align-items: center;
+    border: solid 2px gray;
   }
   .search-txt {
     border:none;
