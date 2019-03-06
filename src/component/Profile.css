@@ -13,6 +13,7 @@
     margin-right: 100px;
     border: solid 1px;
     background-color: gray;
+    margin-top: 20px;
 }
 .Hen {
     border: solid 1px;
@@ -46,4 +47,12 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 5%;
+}
+.hachi {
+    border: solid 1px;
+    margin-top: 100px;
+    margin-left: 314px;
+    margin-right: 100px;
+    margin-bottom: 5%;
+    background-color: gray
 }

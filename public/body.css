@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Felipa');
 body {
+    background: #282c34;
     color: black;
-    background: url('BG.jpeg') center repeat;
-    background-size: cover;
     font-size: 150%;
     font-family: 'Felipa', cursive;
     justify-content: center;
@@ -61,3 +60,41 @@ body p {
   #sidebar ul li a {
     color: white;
   }
+  .search-box {
+    position:absolute;
+    left: 50%;
+    transform:translate(-50%, 50%);
+    height:40px;
+    border-radius:40px;
+    padding:10px;
+    background-color: white;
+    border:solid 2px;
+  }
+  .search-box:hover > .search-txt {
+    width:240px;
+    padding:0 6px;
+
+  }
+  .search-btn {
+    float:right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .search-txt {
+    border:none;
+    background:none;
+    float:left;
+    outline:none;
+    padding:0;
+    color: black;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height:14px;
+    width:0;
+  }
+

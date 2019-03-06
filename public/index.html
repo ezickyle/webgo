@@ -33,14 +33,44 @@
     -->
     <title>Website</title>
     <link rel="icon shortcut" type="img/jpeg" href="./logo3.ico">
+    <div class='preload'>
+    <style>.preload{
+        border-width: 10%;
+        background: transparent;
+        border: solid 20px white;
+        border-radius: 100%;
+        margin-top: 14%;
+        margin-bottom: 40%;
+        margin-right: 40%;
+        margin-left: 35%;
+        padding:12%;
+        border-top: solid 20px black;
+        animation: spin 2s linear infinite;
+
+      }
+      @keyframes spin {
+        0%{
+          transform: rotate(0deg);
+        }
+        100%{
+          transform: rotate(360deg);
+        }
+      }
+      </style>
+    </div>
     <iframe width="0" height="0" src="./Corpmsc.mp3" frameBorder="0" allowFullScreen></iframe>
+    <div class="search-box">
+        <input class="search-txt" type="text" placeHolder="Type to search">
+        <a class="search-btn" href="#"><i class="fas fa-search"></i>
+        </a></div>
   </head>
   <body>
+    <div class="content">
       <i class="fa fa-bars toggle_menu"></i>
       <div class="sidebar_menu">
           <i class="fa fa-times"></i>
         <center>
-          <a href="#"><h1 class="boxed_item">EZEKYLE <span class="logo_bold">VILA</span></h1>
+          <a href="http://localhost:3000/"><h1 class="boxed_item">EZEKYLE <span class="logo_bold">VILA</span></h1>
           </a><h2 class="logo_title">Web Developer</h2>
         </center>
     
@@ -52,22 +82,21 @@
             EDUCATION
           </li>
           <li class="navigation_item" id="work_experience">
-            WORK EXPERIENCE
+            ABOUT
           </li>
           <li class="navigation_item" id="skills">
             SKILLS
           </li>
-          <li class="navigation_item" id="interests">
-            INTERESTS
-          </li>
           <li class="navigation_item" id="portfolio">
             PORTFOLIO
+          </li>
+          <li class="navigation_item" id="faq">
+            FAQ
           </li>
           <li class="navigation_item" id="contact">
             CONTACT
           </li>
         </ul>
-    
         <center>
           <a href="#"><h1 class="boxed_item boxed_item_smaller signup">
           <i class="fa fa-user"></i>
@@ -75,8 +104,15 @@
           </h1></a>
         </center>
       </div><!-- End of sidebar -->
-    
       <script src="./close_menu.js"></script>
+      <script>
+        $(function() {
+          $(".preload").fadeOut(2000, function() {
+            $(".content").fadeIn(1000,);
+          })
+        });
+      </script>
+ 
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
