@@ -1,5 +1,8 @@
 .hogo{
     background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
 }
 .yogo{
     background-color: white;
