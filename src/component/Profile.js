@@ -23,6 +23,10 @@ const Profile = ({ match }) => (
     <img src='./NPM.ico' alt=''></img>
     <img src='./python.ico' alt=''></img>
     <img src='./bootstrap.ico' alt=''></img>
+    <img src='./VS.ico' alt=''></img>
+    <img src='./MSoffice.ico' alt=''></img>
+    <img src='./Adobe.ico' alt=''></img>
+    <img src='./3DSMAX.ico' alt=''></img>
     </body>
     <footer className='Hen'>Why my freelance business is the best? cause even though it is still starting I know that In everything I do I give 100% hardwork with 100% Intelligence and 100% diligence..</footer>
   </div>
