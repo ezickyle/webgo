@@ -67,16 +67,29 @@
 	font-weight: 200;
 	padding: 10px 20px;
 	display: inline-block;
-	border: solid 2px white;
+	border-bottom: solid 2px white;
 	box-sizing: border-box;
 	font-size: 22px;
 	color: white;
 	text-align: center;
 	margin-top: 70px;
+	border-top: solid 2px white;
+}
+.boxed_item:hover {
+	border-bottom: solid 2px transparent;
+	transition: .5s;
+	opacity: 0.8;
+	font-weight:200px; 
+	border-top: solid 2px transparent;
 }
 
 .logo_bold{
 	font-weight: 800;
+	border-top: solid 2px transparent;
+}
+.logo_bold:hover {
+	font-weight: 800;
+	border-top: solid 2px white;
 }
 
 .logo_title{

@@ -1,12 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 .hogo{
     background-color: white;
     display: flex;
     flex-direction: column;
     align-content: center;
+    margin-top:50px;
+    margin-bottom:50px;
 }
 .yogo{
     background-color: white;
+    margin-top:50px;
+    margin-bottom:50px;
 }
 .sogo{
     background-color: white;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.Bright {
+    margin-left:230px;
+    margin-right:230px;
+}
+.Slow {
+    margin-top: -70px;
+    margin-bottom: 100px;
+    color:white;
+    font-family: 'EB Garamond', serif;
+    font-size: 50px;
 }

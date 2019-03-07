@@ -58,16 +58,16 @@ ul {
   font-size: 1.2em;
   text-justify: auto;
   margin-right: 10px;
-  transition: 0.5s;
+  transition: .5s;
 }
 .menu li:hover {
   background-color: whitesmoke;
-  opacity: 100%;
-  padding: 1px; 
-  width: 100px;
-  border-radius: 2%;
-  border: 50px;
+  opacity: .7;
+  width: 80px;
+  border-radius: 5%;
+  border-top: solid 2px #282c34;
   display:block;
+  text-shadow: 9, 9, white;
 }
  
 .menu a {
@@ -90,7 +90,7 @@ ul {
 .LOG {
   float: left;
   height: 60px;
-  margin-left: 40px;
+  margin-left: 5%;
 }
 .Buttons {
   margin: 3px;
