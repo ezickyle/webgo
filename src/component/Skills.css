@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+.Mind {
+    font-family: 'EB Garamond', serif;
+    font-size: 50px;
+    color:white;
+    background-color:transparent;
+    letter-spacing: 10px;
+    margin-bottom: 200px;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: -70px;
+}

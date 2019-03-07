@@ -7,6 +7,7 @@ import Contact from './component/Contacts.js';
 import Profile from './component/Profile.js';
 import FAQ from './component/FAQ.js';
 import Skills from './component/Skills.js';
+import User from './component/User.js';
 
 class App extends Component {
   render() {
@@ -28,6 +29,8 @@ class App extends Component {
         <li> <Link to="/contact">Contact</Link> </li>
 
         <li> <Link to="/faq">FAQ</Link> </li>
+     
+        <li className='HALL'> <Link to="/User">User</Link> </li>
        
       </ul>
       </div>
@@ -42,6 +45,7 @@ class App extends Component {
             <Route path="/contact" component={Contact}/>
             <Route path="/faq" component={FAQ}/>
             <Route path="/skills" component={Skills}/>
+            <Route path="/user" component={User}/>
             <Redirect to="/" />
           </Switch>
        </div>

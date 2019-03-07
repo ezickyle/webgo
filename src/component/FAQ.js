@@ -9,7 +9,7 @@ const FAQ = () => (
    <header >What can you offer to your clients?</header>
    <body className="hogo">A virtual assistant can do scheduling, manage travels, copy-writing, create wesbites, projects, Animation rendering, accout handling, product marketing and real estate. </body>
    <header >What can you garantee to your clients?</header>
-   <body className="sogo">I can garantee to my clients or to my future clients that everything that they'll request is done with complete care so they could make the most out of life.</body>
+   <body className="sogo">I can garantee to my clients or to my future clients that everything that they'll request is done with complete care so they could make the most out of their life.</body>
    </div> 
 
   
