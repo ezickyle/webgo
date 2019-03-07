@@ -24,10 +24,7 @@
     letter-spacing: 20px;
     background-color: transparent;
     text-decoration: bold;
-    float:center;
     min-width: 600px;
-    position:absolute;
-    margin:100px;
-    bottom:-250px;
+    margin-top: 250px;
 
 }
