@@ -64,11 +64,11 @@ ul {
 .menu li:hover {
   background-color: whitesmoke;
   opacity: .7;
-  width: 80px;
+  width: 100px;
   border-radius: 5%;
   border-top: solid 2px #282c34;
   display:block;
-  text-shadow: 9, 9, white;
+  text-shadow: 0, 0, 2px white;
 }
  
 .menu a {
