@@ -8,6 +8,8 @@ import Profile from './component/Profile.js';
 import FAQ from './component/FAQ.js';
 import Skills from './component/Skills.js';
 import User from './component/User.js';
+import Education from './component/Education.js';
+import Portfolio from './component/Portfolio.js';
 
 class App extends Component {
   render() {
@@ -21,12 +23,16 @@ class App extends Component {
         <li> <Link to="/">Home</Link> </li>
 
         <li> <Link to="/profile">Profile</Link></li>
+
+        <li> <Link to="/education">Education</Link></li>
       
         <li> <Link to="/about">About</Link></li>
  
         <li> <Link to="/skills">Skills</Link> </li>
              
         <li> <Link to="/contact">Contact</Link> </li>
+
+        <li> <Link to="/portfolio">Portfolio</Link> </li>
 
         <li> <Link to="/faq">FAQ</Link> </li>
      
@@ -41,8 +47,10 @@ class App extends Component {
           <Switch>
             <Route exact path="/" component={Home}/>
             <Route path="/profile" component={Profile}/>
+            <Route path="/education" component={Education}/>
             <Route path="/about" component={About}/>
             <Route path="/contact" component={Contact}/>
+            <Route path="/portfolio" component={Portfolio}/>
             <Route path="/faq" component={FAQ}/>
             <Route path="/skills" component={Skills}/>
             <Route path="/user" component={User}/>

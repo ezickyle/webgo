@@ -30,15 +30,11 @@ h1 {
 
 }
 .ZEE {
-    font-size: 20px;
-    font-weight: 1px;
-    font-family: 'EB Garamond', serif;
+    background-color: transparent;
     text-align: justify;
-    min-height: auto;
-    min-width: 300px;
-    margin-right:5%;
     margin-left:5%;
-    margin-bottom: 20%;
+    margin-top:5%;
+    margin-bottom:5%;
 }
 .ALL {
     display: flex;
@@ -47,4 +43,7 @@ h1 {
 .MOO {
     background-color: transparent;
     text-align: justify;
+    margin-left:5%;
+    margin-top:5%;
+    margin-bottom:5%;
 }

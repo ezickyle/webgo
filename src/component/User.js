@@ -3,7 +3,7 @@ import './User.css';
 
 const User = () => (
   <div className='silly'>
-  <h1 className="create">User</h1>
+  <h1 className="create">Login</h1>
   <div id='login-box'>
   <div class='right-box'>
         <h1 class="liss"> Sign Up </h1>

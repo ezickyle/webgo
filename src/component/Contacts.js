@@ -24,6 +24,7 @@ const Contact = () => (
     </div>
     <p className='ending'>Thank you for visiting!</p>
     </div>
+    
 
   </div>
   </div>
