@@ -2,7 +2,7 @@
 body {
     background: #282c34;
     color: black;
-    font-size: 150%;
+    font-size: 15%;
     font-family: 'Felipa', cursive;
     justify-content: center;
     opacity: 30%;
@@ -61,7 +61,7 @@ body p {
   }
   .search-box {
     margin-top: -8px;
-    right:50%;
+    left:50%;
     position:absolute;
     transform:translate(-50%, 50%);
     height:40px;
