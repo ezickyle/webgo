@@ -61,16 +61,59 @@
     </div>
     <iframe width="0" height="0" src="./Corpmsc.mp3" frameBorder="0" allowFullScreen></iframe>
 
-  </script>
+    
     <div class="search-box">
-        <input type="search" id="myInput" class="search-txt" title="Type in a name" onkeyup="myFunction()" type="text" placeHolder="Type to search">
+      
+        <input type="search" id="myInput" class="search-txt" title="Type destination" onkeyup="myFunction()" type="text" placeHolder="Type to search">
         <a class="search-btn" href=""><i class="fas fa-search"></i>
         </a>
+        <ul class="navigation_section2" id="myUL">
+          <li class="navigation_item2" type="search" id="profil"><a href="https://ev0lancer.netlify.com/profile">
+            PROFILE</a>
+          </li>
+          <li class="navigation_item2" type="search"  id="educatio"><a href="https://ev0lancer.netlify.com/profile">
+            EDUCATION</a>
+          </li>
+          <li class="navigation_item2" type="search"  id="abou"><a href="https://ev0lancer.netlify.com/about">
+            ABOUT</a>
+          </li>
+          <li class="navigation_item2" type="search"   id="skill"><a href="https://ev0lancer.netlify.com/skills">
+            SKILLS</a>
+          </li>
+          <li class="navigation_item2" type="search"   id="portfoli"><a href="https://ev0lancer.netlify.com/profile">
+            PORTFOLIO</a>
+          </li>
+          <li class="navigation_item2" type="search"   id="fa"><a href="https://ev0lancer.netlify.com/faq">
+            FAQ</a>
+          </li>
+          <li class="navigation_item2" type="search"   id="contac"><a href="https://ev0lancer.netlify.com/contact">
+            CONTACT</a>
+          </li>
+        </ul>
 
+        <script>
+          function myFunction() {
+              var input, filter, ul, li, a, i, txtValue;
+              input = document.getElementById("myInput");
+              filter = input.value.toUpperCase();
+              ul = document.getElementById("myUL");
+              li = ul.getElementsByTagName("li");
+              for (i = 0; i < li.length; i++) {
+                  a = li[i].getElementsByTagName("a")[0];
+                  txtValue = a.textContent || a.innerText;
+                  if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                      li[i].style.display = "";
+                  } else {
+                      li[i].style.display = "none";
+                  }
+              }
+          }
+          </script>
       </div>
   </head>
   <body>
-    <div class="content">
+    <div class="content">       
+      
       <i class="fa fa-bars toggle_menu"></i>
       <div class="sidebar_menu">
           <i class="fa fa-times"></i>
