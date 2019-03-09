@@ -63,12 +63,12 @@ ul {
 }
 .menu li:hover {
   background-color: whitesmoke;
-  opacity: .7;
   width: 100px;
   border-radius: 5%;
   border-top: solid 2px #282c34;
   display:block;
-  text-shadow: 0, 0, 2px white;
+  text-shadow: 0, 0, 2px rgba(0,0,0,0.3);
+  font-weight: 300;
 }
  
 .menu a {

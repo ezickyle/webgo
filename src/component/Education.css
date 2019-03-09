@@ -1,0 +1,45 @@
+.Educ {
+    font-size: 32px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+}
+.Headers {
+    font-size: 50px;
+    color:white;
+    margin-top: -80px;
+    font-family: 'EB Garamond', serif;
+}
+.Zoom {
+    height: 100px;
+    margin-left: 370px;
+    margin-bottom: 10px;
+}
+.Ziki {
+    height: 100px;
+    margin-left: 360px;
+    margin-bottom: 10px;
+}
+.Bon {
+    margin-left: 350px;
+    margin-bottom: 10px;
+}
+.Uno {
+    display: flex;
+    flex-direction: row;
+    border-bottom: solid 2px;
+    margin-bottom: 100px;
+}
+.Dos {
+    display: flex;
+    flex-direction: row;
+    border-bottom: solid 2px;
+    margin-bottom: 100px;
+}
+.Tres {
+    display: flex;
+    flex-direction: row;
+    border-bottom: solid 2px;
+    margin-bottom: 100px;
+}
