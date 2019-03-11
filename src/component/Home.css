@@ -20,15 +20,15 @@
 }
 .NOOB {
     color:white;
-    opacity: 1;
+    opacity: 0.9;
     letter-spacing: 20px;
     background-color: transparent;
     text-decoration: bold;
     min-width: 600px;
-    margin-top: 250px;
+    margin-top: 200px;
     margin-bottom: 350px;
     margin-left: 20%;
     margin-right: 20%;
-    font-weight: 400;
+    font-weight: 200;
 
 }
