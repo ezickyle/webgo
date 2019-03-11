@@ -20,7 +20,7 @@ class App extends Component {
           <img className='LOG' src='./logo3.ico' alt=''></img>
       <ul>
        
-        <li> <Link to="/">Home</Link> </li>
+        <li> <Link to="/">Home</Link></li>
 
         <li> <Link to="/profile">Profile</Link></li>
 
