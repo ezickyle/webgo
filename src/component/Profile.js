@@ -6,7 +6,7 @@ const Profile = ({ match }) => (
     <h1 className='prof'>Profile</h1>
     <div className='Mon'>
     <div className='sign'>
-    <img className="Not" src='./hi.ico' alt='icon'/>
+    <img className="Not" src='./Picture.ico' alt='icon'/>
     <div className='Just'>
     <p>Ezekyle Cortes Vila</p>
     <p>Sex: Male</p>
