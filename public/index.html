@@ -61,12 +61,10 @@
     </div>
     <iframe width="0" height="0" src="./Corpmsc.mp3" frameBorder="0" allowFullScreen></iframe>
 
-    
-    <div class="search-box">
-      
-        <input type="search" id="myInput" class="search-txt" title="Type destination" onkeyup="myFunction()" type="text" placeHolder="Type to search">
-        <a class="search-btn" href=""><i class="fas fa-search"></i>
-        </a>
+        <!---- <div class="search-box">
+        <input id="myInput" class="search-txt" title="Type destination" onkeyup="myFunction()" type="search" placeHolder="Type to search">
+        <a class="search-btn"><i class="fas fa-search" type="submit" href="#"></i>
+        </a></input>
         <ul class="navigation_section2" id="myUL">
           <li class="navigation_item2" type="search" id="profil"><a href="https://ev0lancer.netlify.com/profile">
             PROFILE</a>
@@ -90,31 +88,29 @@
             CONTACT</a>
           </li>
         </ul>
+     
 
         <script>
-          function myFunction() {
-              var input, filter, ul, li, a, i, txtValue;
-              input = document.getElementById("myInput");
-              filter = input.value.toUpperCase();
-              ul = document.getElementById("myUL");
-              li = ul.getElementsByTagName("li");
-              for (i = 0; i < li.length; i++) {
-                  a = li[i].getElementsByTagName("a")[0];
-                  txtValue = a.textContent || a.innerText;
-                  if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                      li[i].style.display = "";
-                  } else {
-                      li[i].style.display = "none";
-                  }
-              }
-          }
           </script>
-      </div>
+      </div>--->
+
+      <script>
+          (function() {
+            var id = 'd43e63de-3fe9-11e9-8931-0242ac130002';
+            var ci_search = document.createElement('script');
+            ci_search.type = 'text/javascript';
+            ci_search.async = true;
+            ci_search.src = 'https://cse.expertrec.com/api/js/ci_common.js?id=' + id;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ci_search, s);
+          })();
+        </script>
+
   </head>
   <body>
     <div class="content">       
       
-      <i class="fa fa-bars toggle_menu"></i>
+      <i class="fa fa-bars toggle_menu" style="font-size:42px"></i>
       <div class="sidebar_menu">
           <i class="fa fa-times"></i>
         <center>
@@ -151,6 +147,7 @@
             SIGN UP
           </h1></a>
         </center>
+        <center><ci-search></ci-search></center>
       </div><!-- End of sidebar -->
       <script src="./close_menu.js"></script>
       <script>

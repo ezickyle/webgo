@@ -76,15 +76,6 @@ body p {
 
   }
   .search-btn {
-    float:right;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    background: whitesmoke;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    border: solid 2px gray;
   }
   .search-txt {
     border:none;

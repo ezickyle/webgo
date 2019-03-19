@@ -45,10 +45,9 @@
 	margin-left: 20px;
 	color: white;
 	cursor: pointer;
-	background-color: transparent;
 	opacity: 0;
 	z-index: 10000;
-	font-size: 2em; 
+	font-size: 10em;
 	transition: all 0.2s ease-in-out;
 }
 
