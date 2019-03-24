@@ -28,6 +28,7 @@ const Profile = ({ match }) => (
     <img src='./icons/MSoffice.ico' alt=''></img>
     <img src='./icons/Adobe.ico' alt=''></img>
     <img src='./icons/3DSMAX.ico' alt=''></img>
+    <img src='./icons/CAD.ico' alt=''></img>
     </body>
     <footer className='Hen'>Why my freelance business is the best? I offer 100% Hardwork, Intelligence &  Diligence.</footer>
   </div>

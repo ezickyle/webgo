@@ -58,8 +58,8 @@ ul {
   font-family: 'Staatliches', cursive;
   font-size: 1.2em;
   text-justify: auto;
-  margin-right: 10px;
-  transition: .5s;
+  transition: 1s;
+  width: 100px;
 }
 .menu li:hover {
   background-color: whitesmoke;
@@ -69,6 +69,7 @@ ul {
   display:block;
   text-shadow: 0, 0, 2px rgba(0,0,0,0.3);
   font-weight: 300;
+  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.3);
 }
  
 .menu a {
