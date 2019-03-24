@@ -59,17 +59,18 @@ ul {
   font-size: 1.2em;
   text-justify: auto;
   transition: 1s;
-  width: 100px;
+  width: 100%;
+  padding: 10px;
 }
 .menu li:hover {
   background-color: whitesmoke;
-  width: 100px;
+  width: 100%;
   border-radius: 5%;
   border-top: solid 2px #282c34;
-  display:block;
   text-shadow: 0, 0, 2px rgba(0,0,0,0.3);
   font-weight: 300;
   box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.3);
+  padding: 10px;
 }
  
 .menu a {
