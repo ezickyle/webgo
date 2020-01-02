@@ -11,6 +11,7 @@
 .Hand {
     background: center url('Writing-freelancer.jpg') no-repeat;
     background-size: cover;
+    height: 100%;
     
 }
 .NOOB {
@@ -23,7 +24,7 @@
     margin-top: 400px;
     margin-left: 20%;
     margin-right: 20%;
-    margin-bottom: none;
+    height: 100%;
     font-weight: 400;
 
 }
