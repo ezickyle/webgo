@@ -11,22 +11,16 @@
 .Hand {
     background: center url('Writing-freelancer.jpg') no-repeat;
     background-size: cover;
-    min-height: 100%;
-    margin: 0%;
-    min-width: 100%;
-    height: 100%;
-    opacity: 10;
-    width: 100%;
+    
 }
 .NOOB {
-    color:white;
-    opacity: 1;
+    color: black;
+    opacity: 10;
     letter-spacing: 20px;
     background-color: transparent;
     text-decoration: bold;
     min-width: 600px;
-    margin-top: 200px;
-    margin-bottom: 350px;
+    margin-top: 300px;
     margin-left: 20%;
     margin-right: 20%;
     font-weight: 400;

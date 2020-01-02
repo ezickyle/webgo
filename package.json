@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "npm": "^6.7.0",
+    "package.json": "^2.0.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-router": "^4.3.1",
