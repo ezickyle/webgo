@@ -14,15 +14,16 @@
     
 }
 .NOOB {
-    color: black;
-    opacity: 10;
+    color: white;
+    opacity: 1;
     letter-spacing: 20px;
     background-color: transparent;
     text-decoration: bold;
     min-width: 600px;
-    margin-top: 300px;
+    margin-top: 400px;
     margin-left: 20%;
     margin-right: 20%;
+    margin-bottom: none;
     font-weight: 400;
 
 }
