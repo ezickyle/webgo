@@ -12,7 +12,7 @@ const Contact = () => (
       </div>
       <div className='two'>
       <img src="https://img.icons8.com/color/48/000000/twitter.png"  alt='hello'></img>
-      <a class="btn btn-primary btn-xs" href="https://twitter.com/search?q=ezekyle%406" role="button">Twitter</a>
+      <a class="btn btn-primary btn-xs" href="https://twitter.com/ezekyle27" role="button">Twitter</a>
       </div>
       <div className='three'>
       <img src="https://img.icons8.com/color/48/000000/instagram-new.png"  alt='hello'></img>
