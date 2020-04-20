@@ -12,11 +12,10 @@
     background: center url('Writing-freelancer.jpg') no-repeat;
     background-size: cover;
     height: 100%;
-    
+    border: solid black 2px;
 }
 .NOOB {
     color: white;
-    opacity: 1;
     letter-spacing: 20px;
     background-color: transparent;
     text-decoration: bold;
@@ -26,5 +25,32 @@
     margin-right: 20%;
     height: 100%;
     font-weight: 400;
+    margin-bottom: 10%;
 
+}
+.Ama {
+    background-color: transparent;
+    text-align: justify;
+    margin-left:20%;
+    margin-top:20%;
+    margin-bottom:5%;
+    border: solid black 2px;
+}
+.Jor {
+    font-size: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    font-size: 16px;
+    justify-content: left;
+}
+.jin {
+    background-color: transparent;
+    text-align: justify;
+    margin-left:20%;
+    margin-top:10%;
+    margin-bottom:20%;
+    border: solid black 2px;
 }
