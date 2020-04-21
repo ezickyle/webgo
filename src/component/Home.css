@@ -13,6 +13,7 @@
     background-size: cover;
     height: 100%;
     border: solid black 2px;
+    opacity: 100%;
 }
 .NOOB {
     color: white;
@@ -26,7 +27,11 @@
     height: 100%;
     font-weight: 400;
     margin-bottom: 10%;
-
+    border: solid 2.5px white;
+    border-radius: 1px;
+    border-right: transparent;
+    border-left: transparent;
+    opacity: 90%;
 }
 .Ama {
     background-color: transparent;
@@ -53,4 +58,17 @@
     margin-top:10%;
     margin-bottom:20%;
     border: solid black 2px;
+}
+.niss {
+    background-color: transparent;
+    font-family:'Times New Roman' ;
+    text-align: center;
+    text-justify: auto;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-shadow: black 20px;
+    
 }
