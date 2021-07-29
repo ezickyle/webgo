@@ -12,9 +12,6 @@ const Education = () => (
       <div className="Dos">
           <p>High School: Angelicum College, Quezon City</p> <img className="Ziki" src="./Icons/AC.jpg" alt=""></img>
       </div>
-       <div className="Tres">
-          <p>College: University of Baguio, Baguio City</p>  <img className="Bon" src="./Icons/UB.jpg" alt=""></img>
-      </div>
       </body>
   </div>
 
