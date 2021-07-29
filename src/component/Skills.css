@@ -17,3 +17,25 @@ header {
 .route {
     margin-bottom: 100px;
 }
+.uno {
+   margin-bottom: 100px;
+   align-self: flex-start;
+   margin-left: 10%;
+}
+.dos {
+    margin-bottom: 100px;
+    align-self: flex-end;
+    margin-right: 10%;
+}
+.tres {
+    margin-bottom: 100px;
+    align-self: flex-end;
+    margin-right: 10%;
+    
+}
+.singko {
+    margin-bottom: 100px;
+    align-self: flex-start;
+    margin-left: 10%;
+
+}
