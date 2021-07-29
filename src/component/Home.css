@@ -10,7 +10,7 @@
 }
 .Hand {
     background: center url('Laptop201.jpg') no-repeat;
-    background-size: cover;
+    background-size: contain;
     border: solid black 2px;
     opacity: 100%;
 }
