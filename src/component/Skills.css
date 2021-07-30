@@ -13,55 +13,76 @@
     margin-top: -70px;
 }
 .boom2 {
-    font-family: 'Archivo Black', sans-serif;
+    font-family: 'EB Garamond', serif;
     font-size: 30px;
-    margin-top: 10px;
+    margin-top: 50px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
   
     
 }
 .route {
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 .uno {
    margin-bottom: 100px;
    align-self: flex-start;
-   margin-left: 5%;
+   margin-left: 15%;
 }
 .dos {
     margin-bottom: 100px;
     align-self: flex-end;
-    margin-right: 5%;
+    margin-right: 15%;
 }
 .tres {
     margin-bottom: 100px;
     align-self: flex-end;
-    margin-right: 5%;
+    margin-right: 15%;
     
 }
 .singko {
     margin-bottom: 100px;
     align-self: flex-start;
-    margin-left: 5%;
+    margin-left: 15%;
 
 }
 .yat {
     background-color: rgb(199, 195, 195);
 }
 .monday {
-    color: honeydew;
+    color: #635116;
+    align-self: center;
+    margin-left: 5%;
+    margin-bottom: 50px;
 }
 
 .tuesday{
-    color: honeydew;
+    color: #635116;
+    align-self: center;
+    margin-right: 5%;
+    margin-bottom: 50px;
+    
 
 }
 
 .wednesday{
-    color: honeydew;
-
+    color: #635116;
+    align-self: center;
+    margin-left: 5%;
+    margin-bottom: 50px;
 }
 
 .thursday{
-    color: honeydew;
-
+    color: #635116;
+    align-self: center;
+    margin-right: 5%;
+}
+.Notting{
+    border: none;
+    size: 10px;
+    width: 210px;
+    height: 70px; 
+    margin-bottom: 0%;
+    margin-top: -5%;
 }
