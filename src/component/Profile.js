@@ -14,7 +14,7 @@ const Profile = ({ match }) => (
     <p>Date of Birth: April 13 1992</p>
     </div>
     </div>
-    <header className='Ben'>You can create beautiful things - but you have to see them in your mind first. There are no mistakes. You can fix anything that happens. Now it's beginning to make a little sense. Maybe there's a happy little waterfall happening over here. In painting, you have unlimited power. You have the ability to move mountains. You don't have to be crazy to do this but it does help.</header>
+    <header className="Ben">You can create beautiful things - but you have to see them in your mind first. There are no mistakes. You can fix anything that happens. Now it's beginning to make a little sense. Maybe there's a happy little waterfall happening over here. In painting, you have unlimited power. You have the ability to move mountains. You don't have to be crazy to do this but it does help.</header>
     </div>
     <body className="hachi" >Technologies that I know:
     <img src='./icons/html.ico' alt=''></img>

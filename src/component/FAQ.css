@@ -31,3 +31,36 @@
     font-family: 'EB Garamond', serif;
     font-size: 50px;
 }
+.wogo {
+    background-color: white;
+    margin-top:50px;
+    margin-bottom:50px;
+    text-align: center;
+}
+.mogo {
+    background-color: white;
+    margin-top:50px;
+    margin-bottom:50px;
+    text-align: center;
+}
+.xogo {
+    background-color: white;
+    margin-top:50px;
+    margin-bottom:50px;
+    text-align: center;
+}
+.zogo {
+    background-color: white;
+    margin-top:50px;
+    margin-bottom:50px;
+    text-align: center;
+}
+.aogo {
+    background-color: white;
+    margin-top:50px;
+    margin-bottom:50px;
+    text-align: center;  
+}
+.header {
+    font-size: 38px;
+}

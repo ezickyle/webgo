@@ -1,18 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Architects+Daughter&display=swap');
+
 .Mind {
     font-family: 'EB Garamond', serif;
     font-size: 50px;
     color:white;
     background-color:transparent;
     letter-spacing: 10px;
-    margin-bottom: 100px;
     margin-left: 0%;
     margin-right: 0%;
     margin-top: -70px;
 }
-header {
-    font-family: 'EB Garamond', serif;
+.boom2 {
+    font-family: 'Archivo Black', sans-serif;
     font-size: 30px;
+    margin-top: 10px;
+  
+    
 }
 .route {
     margin-bottom: 100px;
@@ -20,22 +25,43 @@ header {
 .uno {
    margin-bottom: 100px;
    align-self: flex-start;
-   margin-left: 10%;
+   margin-left: 5%;
 }
 .dos {
     margin-bottom: 100px;
     align-self: flex-end;
-    margin-right: 10%;
+    margin-right: 5%;
 }
 .tres {
     margin-bottom: 100px;
     align-self: flex-end;
-    margin-right: 10%;
+    margin-right: 5%;
     
 }
 .singko {
     margin-bottom: 100px;
     align-self: flex-start;
-    margin-left: 10%;
+    margin-left: 5%;
+
+}
+.yat {
+    background-color: rgb(199, 195, 195);
+}
+.monday {
+    color: honeydew;
+}
+
+.tuesday{
+    color: honeydew;
+
+}
+
+.wednesday{
+    color: honeydew;
+
+}
+
+.thursday{
+    color: honeydew;
 
 }
