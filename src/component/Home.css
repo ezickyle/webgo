@@ -29,10 +29,11 @@
 .Ama {
     background-color: transparent;
     text-align: justify;
-    margin-left:20%;
     margin-top:20%;
     margin-bottom:5%;
-    border: solid black 2px;
+    border: solid black 1px;
+    align-self: flex-start;
+    Height:400px;
 }
 .Jor {
     font-size: 40px;
@@ -50,7 +51,11 @@
     margin-left:20%;
     margin-top:10%;
     margin-bottom:20%;
-    border: solid black 2px;
+    border: solid black 1px;
+    align-self: flex-end;
+    height: 200px;
+    width: 1100px;
+    color: chocolate;
 }
 .niss {
     background-color: transparent;
@@ -63,4 +68,17 @@
     margin-bottom: 22.5%;
     text-shadow: black 20px;
     
+}
+.weew {
+    font-size: 58px;
+    text-align: center;
+}
+.minit {
+    font-size: 55px;
+    color: brown;
+    margin-left: 10px;
+    margin: 2%;
+}
+.nodes {
+    margin: 3%;
 }

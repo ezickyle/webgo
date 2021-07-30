@@ -10,8 +10,9 @@ const Home = () => (
    </div>
   </div>
    <div className='Jor'>
-    <body className='Ama'> <p></p></body>
-    <body className="jin"><p></p></body>
+    <body className='Ama'> <header className="minit">Welcome to my Homepage,</header> <p className="nodes">
+      I'm your freelancer my aim is to give you the most out of your life. By giving you remote service that you will surely you'll look up forward too. </p></body>
+    <body className="jin"> <p className="weew"> Let's get into ACTION!</p></body>
     </div>
   </div>
 );
