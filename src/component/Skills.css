@@ -79,6 +79,7 @@
     color: #635116;
     align-self: center;
     margin-right: 5%;
+    margin-bottom: 50px;
 }
 .Notting{
     border: none;
@@ -87,4 +88,15 @@
     height: 70px; 
     margin-bottom: 0%;
     margin-top: -5%;
+}
+.friday {
+    color: #635116;
+    align-self: center;
+    margin-right: 5%;
+    margin-bottom: 50px;
+}
+.kwatro {
+    margin-bottom: 100px;
+    align-self: flex-start;
+    margin-left: 15%;
 }

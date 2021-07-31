@@ -18,9 +18,11 @@ const Skills = () => (
         <p className="wednesday">Here is simulation of our van going outwards.</p>
         <iframe className='singko' width="560" height="315" src="https://www.youtube.com/embed/tYzXazUvCYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="happy"></iframe>
         
-        <p className="thursday">Here is a simulation of our van going inside the guarage, and parking.</p>
+        <p className="thursday">Here is a simulation of our van going outside the garage, and parking it again inside.</p>
         <iframe className="dos" width="560" height="315" src="https://www.youtube.com/embed/dR6Tjfglvjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="seem"></iframe>
         
+        <p className="friday">This video is about basic command prompt tricks, it will show you how to find specs and other handy tools in windows 10. </p>
+        <iframe className="kwatro" width="560" height="315" src="https://www.youtube.com/embed/wFVkM-GwO4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     </div>
     <img className="Notting" src='./Copyrights trans.ico' alt='icon'/>
