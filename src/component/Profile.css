@@ -7,6 +7,15 @@
     margin-bottom: 10px;
     font-family: 'EB Garamond', serif;
 }
+.BGi {
+    width: 75%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+.rook {
+    margin-left: 33%;
+    margin-top: 5%;
+}
 .Ben {
     text-align: justify;
     margin-left: 40px;
@@ -15,13 +24,27 @@
     margin-top: 20px;
     font-size: 30px;
     font-family: 'EB Garamond', serif;
+    margin: 3%;
+    background-color: #282C34;
+    height: 800px;
+    width: 75%;
+}
+.blowe {
+    padding: 3%;
+    color: antiquewhite;
+}
+.nite {
+    padding: 3%;
+    color: antiquewhite;
 }
 .Hen {
-    border: solid 1px;
-    margin-left: 314px;
-    margin-right: 100px;
+    border: solid 1.5px;
+    margin-left: 3%;
+    margin-right: 3%;
     margin-bottom: 5%;
     background-color:transparent;
+    font-size: 24px;
+    padding: 1%;
 }
 .Not{
     height: 200px;
@@ -29,7 +52,7 @@
     margin-left: 40px;
     border: solid 1px;
     padding: 10px;
-    margin-top: 20px;
+    margin-top: 55px;
 }
 .BOL{
     align-items: left;
@@ -54,6 +77,10 @@
     margin-right: 100px;
     margin-bottom: 5%;
     background-color:transparent;
+    display: -ms-inline-flexbox;
+    direction: row;
+    font-size: large;
+    
 }
 .sign {
     text-align: left;
@@ -61,4 +88,72 @@
 .Just {
     margin-left: 35px;
     font-family: 'EB Garamond', serif;
+    direction: row;
+
+}
+.yow{
+flex-direction: column;
+margin-bottom: 2%;
+align-items: center;
+}
+.NA {
+    resize: horizontal;
+    image-resolution: 100px;
+}
+.a {
+    
+}
+.b {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.c {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.d {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.e {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.f {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.g {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.h {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.i {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.j {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.k {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.l {
+    margin-left: 2%;
+    font-family: 'EB Garamond', serif;
+}
+.we {
+    margin: 100px;
+    margin-right: 100%;
+    font-family: 'EB Garamond', serif;
+}
+.fins {
+    font-family: 'EB Garamond', serif;
+    font-size: xx-large;
+    border-color: black;
 }

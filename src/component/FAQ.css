@@ -1,24 +1,44 @@
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 .hogo{
-    background-color: white;
     display: flex;
     flex-direction: column;
-    align-content: center;
+    align-content:center;
     margin-top:50px;
     margin-bottom:50px;
     text-align: center;
+    border: black 2px;
+    border-color: black 2px;
+    border-style: double;
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+    margin-right: 50%;
+    background-color: #F1EAD7;
+    padding: 5%;
 }
 .yogo{
-    background-color: white;
-    margin-top:50px;
-    margin-bottom:50px;
+    border-left: 50%;
     text-align: center;
+    border: black 2px;
+    border-color: black 2px;
+    border-style: double;
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+    align-content: center;
+    background-color: #F1EAD7;
+    padding: 5%;
 }
 .sogo{
-    background-color: white;
-    margin-top:50px;
-    margin-bottom:50px;
-    text-align: center;
+    border: black 2px;
+    border-color: black 2px;
+    border-style: double;
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 50%;
+    background-color: #F1EAD7;
+    padding: 5%;
 }
 .Bright {
     margin-left:230px;
@@ -32,28 +52,58 @@
     font-size: 50px;
 }
 .wogo {
-    background-color: white;
     margin-top:50px;
     margin-bottom:50px;
     text-align: center;
+    border: black 2px;
+    border-color: black 2px;
+    border-style: double;
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 50%;
+    background-color: #F1EAD7;
+    padding: 5%;
 }
 .mogo {
-    background-color: white;
+    background-color: #F1EAD7;
     margin-top:50px;
     margin-bottom:50px;
     text-align: center;
+    border: black 2px;
+    border-color: black 2px;
+    border-style: double;
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 5%;
 }
 .xogo {
-    background-color: white;
+    background-color: #F1EAD7;
     margin-top:50px;
     margin-bottom:50px;
     text-align: center;
+    border: black 2px;
+    border-color: black 2px;
+    border-style: double;
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 5%;
 }
 .zogo {
-    background-color: white;
+    background-color: #F1EAD7;
     margin-top:50px;
     margin-bottom:50px;
     text-align: center;
+    border: black 2px;
+    border-color: black 2px;
+    border-style: double;
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 50%;
+    padding: 3%;
 }
 .aogo {
     background-color: white;
@@ -63,4 +113,22 @@
 }
 .header {
     font-size: 38px;
+}
+.Coops {
+    border-color: black 2px;
+}
+.Bright {
+    border: black 10px;
+
+}
+.SET{
+    border: black 2px;
+    border-color: black 2px;
+    border-style: double;
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: #F1EAD7;
+    margin-left: 50%;
+    padding: 5%;
 }

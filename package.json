@@ -11,6 +11,7 @@
     "lodash.template": "^4.5.0",
     "minimist": "^1.2.5",
     "mixin-deep": "^2.0.1",
+    "node.js": "0.0.1-security",
     "npm": "^6.7.0",
     "package.json": "^2.0.1",
     "react": "^16.8.1",
