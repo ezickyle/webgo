@@ -16,6 +16,7 @@
     "dot-prop": "^6.0.1",
     "elliptic": "^6.5.4",
     "eslint-utils": "^2.0.0",
+    "gatsby": "^3.14.3",
     "glob-parent": "^6.0.2",
     "handlebars": "^4.7.7",
     "hosted-git-info": "^4.0.2",
