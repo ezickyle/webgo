@@ -27,34 +27,34 @@ const Profile = ({ match }) => (
     </div>
     <div className="fins">Technologies That I know:
     <body className="hachi"><body/>
+    <div>
 
     <img src='' alt='' className="we"></img>
 
-    <img src='./icons/html.ico' alt='' className="a"></img> HTML
+    <img alt= '' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src='./icons/html.ico' alt='' className="a"></img> HTML
 
-    <img src='./icons/css.ico' alt='' className="b"></img>  CSS
+    <img alt= '' src="https://img.icons8.com/color/48/000000/css3.png"/><img src='./icons/css.ico' alt='' className="b"></img>   CSS
 
-    <img src='./icons/JS.ico' alt='' className="c"></img> JS
+    <img alt= '' src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src='./icons/JS.ico' alt='' className="c"></img> JS
 
-    <img src='./icons/NodeJS.ico' alt='' className="d"></img> NODEJS
+    <img alt="" src="https://img.icons8.com/fluency/48/000000/node-js.png"/><img src='./icons/NodeJS.ico' alt='' className="d"></img> NODEJS
 
-    <img src='./icons/NPM.ico' alt='' className="e"></img> NPM
+    <img alt="" src="https://img.icons8.com/color/48/000000/npm.png"/><img src='./icons/NPM.ico' alt='' className="e"></img> NPM
 
-    <img src='./icons/python.ico' alt='' className="f"></img> PYTHON
+    <img alt="" src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src='./icons/python.ico' alt='' className="f"></img> PYTHON
 
-    <img src='./icons/bootstrap.ico' alt='' className="g"></img> BOOTSTRAP
+    <img alt="" src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src='./icons/bootstrap.ico' alt='' className="g"></img> BOOTSTRAP
 
-    <img src='./icons/VS.ico' alt='' className="h"></img> VS
+    <img alt= "" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src='./icons/VS.ico' alt='' className="h"></img> VS CODE
 
-    <img src='./icons/MSoffice.ico' alt='' className="i"></img> MSOFFICE
+    <img alt="" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/><img src='./icons/MSoffice.ico' alt='' className="i"></img> MSOFFICE
 
-    <img src='./icons/Adobe.ico' alt='' className="j"></img> ADOBE PS
+    <img alt="" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/><img src='./icons/Adobe.ico' alt='' className="j"></img> ADOBE PS
 
-    <img src='./icons/3DSMAX.ico' alt='' className="k"></img> 3DSMAX
+    <img alt='' src="https://img.icons8.com/color/48/000000/autodesk-3ds-max.png"/><img src='./icons/3DSMAX.ico' alt='' className="k"></img> 3DSMAX
 
-    <img src='./icons/CAD.ico' alt='' className="l"></img> AUTOCAD
-
-
+    <img alt="" src="https://img.icons8.com/color/48/000000/autodesk-autocad.png"/><img src='./icons/CAD.ico' alt='' className="l"></img> AUTOCAD
+    </div>
     </body>
     <body/>
     <footer className='Hen'>Why my freelance business is the best? I offer 100% Hardwork, Intelligence & Diligence.</footer>

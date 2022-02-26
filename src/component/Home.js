@@ -12,7 +12,7 @@ const Home = () => (
    <div className='Jor'>
     <body className='Ama'> <header className="minit">Welcome to my Homepage,</header> <p className="nodes">
       I'm your freelancer my aim is to give you the most out of your life, by giving you remote service that you will surely look forward too. </p></body>
-    <a className="jin" type="btn" href="https://ev0lancer.netlify.app/contact" > <p className="weew"> Let's get into ACTION!</p>
+    <a className="jin" type="btn" href="https://ezickyle.github.io/contact" > <p className="weew"> Let's get into ACTION!</p>
     <p className="OMG">To start Direct Message me Today.</p>
     </a>
     </div>
