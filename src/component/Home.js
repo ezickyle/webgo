@@ -2,6 +2,7 @@ import React from 'react';
 import './Home.css';
 
 const Home = () => (
+  
   <div>
   <div className='Hand'><div/>
   <h1 className="App-title">Welcome To My Site.</h1>
@@ -17,6 +18,7 @@ const Home = () => (
     </a>
     </div>
   </div>
+  
 );
 
 export default Home;
