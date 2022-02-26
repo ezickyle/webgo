@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cbd2320d326d997e3c2b",
-    "url": "/webgo/static/css/main.b058c16e.chunk.css"
+    "revision": "70539d597801449f76b1",
+    "url": "/webgo/static/css/main.cca20d43.chunk.css"
   },
   {
-    "revision": "cbd2320d326d997e3c2b",
-    "url": "/webgo/static/js/main.cbd2320d.chunk.js"
+    "revision": "70539d597801449f76b1",
+    "url": "/webgo/static/js/main.70539d59.chunk.js"
   },
   {
     "revision": "2d1d99a500f71d4b464b",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/webgo/static/media/social.9329d78d.jpg"
   },
   {
-    "revision": "37d3c157a5d62205b21ee5255f6982f3",
+    "revision": "24c7450403199d40b0eeb597e8f9269c",
     "url": "/webgo/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
-  "main.css": "/webgo/static/css/main.b058c16e.chunk.css",
-  "main.js": "/webgo/static/js/main.cbd2320d.chunk.js",
-  "main.js.map": "/webgo/static/js/main.cbd2320d.chunk.js.map",
+  "main.css": "/webgo/static/css/main.cca20d43.chunk.css",
+  "main.js": "/webgo/static/js/main.70539d59.chunk.js",
+  "main.js.map": "/webgo/static/js/main.70539d59.chunk.js.map",
   "static/js/1.2d1d99a5.chunk.js": "/webgo/static/js/1.2d1d99a5.chunk.js",
   "static/js/1.2d1d99a5.chunk.js.map": "/webgo/static/js/1.2d1d99a5.chunk.js.map",
   "runtime~main.js": "/webgo/static/js/runtime~main.1427c838.js",
@@ -10,8 +10,8 @@
   "static/media/About.css": "/webgo/static/media/Laptop home.2434899b.jpg",
   "static/media/Contacts.css": "/webgo/static/media/businesscard.3d6895c5.jpeg",
   "static/media/User.css": "/webgo/static/media/social.9329d78d.jpg",
-  "static/css/main.b058c16e.chunk.css.map": "/webgo/static/css/main.b058c16e.chunk.css.map",
+  "static/css/main.cca20d43.chunk.css.map": "/webgo/static/css/main.cca20d43.chunk.css.map",
   "index.html": "/webgo/index.html",
-  "precache-manifest.dccb17ad640106a6cc1fa9f51aa71ec7.js": "/webgo/precache-manifest.dccb17ad640106a6cc1fa9f51aa71ec7.js",
+  "precache-manifest.9d9b494fb481ec390dfd51dd508db0a3.js": "/webgo/precache-manifest.9d9b494fb481ec390dfd51dd508db0a3.js",
   "service-worker.js": "/webgo/service-worker.js"
 }
