@@ -33,8 +33,9 @@ h1 {
     text-align: justify;
     margin-left:5%;
     margin-top:5%;
-    margin-bottom:5%;
-    margin-top: 70%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+    height: 800px;
 }
 .ALL {
     display: flex;
@@ -46,6 +47,7 @@ h1 {
     text-align: justify;
     margin-left:5%;
     margin-top:5%;
-    margin-bottom:5%;
-    margin-top: 70%;
+    margin-bottom:10%;
+    margin-top: 5%;
+    height: 800px;
 }
