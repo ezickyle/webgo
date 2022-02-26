@@ -6,9 +6,8 @@ const Profile = ({ match }) => (
     <h1 className='prof'>Profile</h1>
     <div className='Mon'>
     <div className='sign'>
-    <img className="Not" src='./Picture.ico' alt='icon'/>
     <div className='Just'>
-    
+    <p classname='Mint'><img alt='' src="https://tinypic.host/i/screenshot-85.0mxVd"></img></p>
     <p>Name: Ezekyle Cortes Vila</p>
     <p>Sex: Male</p>
     <p>Age: 29</p>
@@ -17,13 +16,15 @@ const Profile = ({ match }) => (
     <p>Marital Status: Single</p>
     </div>
     </div>
-    <body className="Ben"><p className="nite">Greetings, My real name is Ezekyle. I'm a VIRTUAL ASSISTANT.
+    <body className="Ben">
+    <p className="nite">Greetings, My real name is Ezekyle. I'm a VIRTUAL ASSISTANT.
 
-</p><p className="blowe">Welcome to my profile here you can know more about my biodata, and things you"ll be expecting when you hire me as a virtual assistant or giving me projects.  Here are my skills to offer starting from Video Editing, Frontend design, Animation, Virtual Assistant.</p> <img className="rook" src="./icons/OIP.ico" alt=""></img></body>
+</p><p className="blowe">Welcome to my profile here you can know more about my biodata, and things you"ll be expecting when you hire me as a virtual assistant or giving me projects.  Here are my skills to offer starting from Video Editing, Frontend design, Animation, Virtual Assistant.</p> 
+
+</body>
     
     </div>
     <div className="yow">
-    <img src='./icons/digi 1 edit.ico' alt='' className="BGi"></img>
     </div>
     <div className="fins">Technologies That I know:
     <body className="hachi"><body/>

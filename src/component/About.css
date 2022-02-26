@@ -11,13 +11,14 @@ h1 {
     flex-direction: row-reverse;
     font-size: 16px;
     justify-content: left;
+    margin-top: 10%;
 }
 .NID {
     font-family: 'EB Garamond', serif;
     color: white;
-    margin-top: -70px;
     font-size: 50px;
     align-items: center;
+    margin-top: -70px;
 }
 .App-logo2 {
     border-radius: 1%; 
@@ -34,8 +35,10 @@ h1 {
     margin-left:5%;
     margin-top:5%;
     margin-bottom:5%;
+    margin-top: 70%;
 }
 .ALL {
+    background: center url('Laptop home.jpg') no-repeat;
     display: flex;
     flex-direction: column;
 }
@@ -45,4 +48,5 @@ h1 {
     margin-left:5%;
     margin-top:5%;
     margin-bottom:5%;
+    margin-top: 70%;
 }
