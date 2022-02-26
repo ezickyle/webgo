@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/webgo/static/media/social.9329d78d.jpg"
   },
   {
-    "revision": "747a786a4678c6fa34bb580bf1d5dd85",
+    "revision": "76033c5a9e32adb423f6d96f399e4209",
     "url": "/webgo/index.html"
   }
 ];
