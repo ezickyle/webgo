@@ -11,8 +11,6 @@ h1 {
     flex-direction: row-reverse;
     font-size: 16px;
     justify-content: left;
-    margin-top: -22%;
-    background: center url('Laptop home.jpg') no-repeat;
 }
 .NID {
     font-family: 'EB Garamond', serif;
@@ -39,9 +37,9 @@ h1 {
     margin-top: 70%;
 }
 .ALL {
-
     display: flex;
     flex-direction: column;
+    background: center url('Laptop home.jpg') no-repeat;
 }
 .MOO {
     background-color: transparent;
