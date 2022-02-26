@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "73bd5fc89bfea8db691b",
-    "url": "/webgo/static/css/main.71de5d47.chunk.css"
+    "revision": "b951300b947c08487170",
+    "url": "/webgo/static/css/main.a9e36f61.chunk.css"
   },
   {
-    "revision": "73bd5fc89bfea8db691b",
-    "url": "/webgo/static/js/main.73bd5fc8.chunk.js"
+    "revision": "b951300b947c08487170",
+    "url": "/webgo/static/js/main.b951300b.chunk.js"
   },
   {
     "revision": "2d1d99a500f71d4b464b",
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "/webgo/static/media/Laptop201.6bd36b7f.jpg"
   },
   {
+    "revision": "2434899bc21bf3477052eb24265041a1",
+    "url": "/webgo/static/media/Laptop home.2434899b.jpg"
+  },
+  {
     "revision": "3d6895c5592da42275aa44f931aa952d",
     "url": "/webgo/static/media/businesscard.3d6895c5.jpeg"
   },
@@ -28,7 +32,7 @@ self.__precacheManifest = [
     "url": "/webgo/static/media/social.9329d78d.jpg"
   },
   {
-    "revision": "b1527a5ab43f696b176ddfa715183155",
+    "revision": "78e91b6feb9e9a5c03a05e35b3025bd3",
     "url": "/webgo/index.html"
   }
 ];
